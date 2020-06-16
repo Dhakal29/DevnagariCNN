@@ -1,1 +1,3 @@
+This project is about using Convolutional Neural Network to recognize character of Devnagari(Nepali/Hindi/Sanskrit). The dataset contains over 92000 images without the vowels.
+Link : https://www.kaggle.com/rishianand/notebook
 
